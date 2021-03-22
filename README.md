@@ -4,7 +4,7 @@
 # Making use of pre-trained model (MobileNet-SSD v3)
 The model is downloaded from (https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API).
 
-# Example of output
+# Example of Outputs
 ![Image of output1](https://github.com/victorjongsoon/object-detection/blob/main/images/Output1.PNG)
 ![Image of output2](https://github.com/victorjongsoon/object-detection/blob/main/images/Output2.jpeg)
 
