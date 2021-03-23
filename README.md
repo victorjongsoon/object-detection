@@ -1,5 +1,5 @@
 # Object Detection
- In this self explanatory project, I would like to build an object detector using OpenCV.
+ In this self explanatory project, I had built an object detector using OpenCV.
  
 # Making use of pre-trained model (MobileNet-SSD v3)
 The model is downloaded from (https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API).
